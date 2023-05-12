@@ -1,1 +1,1 @@
-let yourArray= [Ashwini,Accio,2,3,true];
+yourArray= [Ashwini,Accio,2,3,true];
